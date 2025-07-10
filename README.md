@@ -7,8 +7,8 @@
 - Experimenting with **computer vision** & **edge AI** on NVIDIA **Jetson Nano**
 
 **Resume highlights**  
-- **Real‑time Chessboard Announcer**  
-  • Computer‑vision pipeline on Jetson Nano + LLM‑driven text‑to‑speech to mimic live commentary  
+- **Real‑time Chess Announcer**  
+  • LLM‑driven generation of live commentary via TTS and evaluation metric pipeline  
 - **Fantasy Football Performance Predictor** 
   • End-to-end ML pipeline from raw data to actionable predictions for upcoming season  
 - **Web Projects**  
