@@ -24,4 +24,4 @@
 I’m open to side‑projects involving AI/ML, robotics, embedded systems, or fun web apps—drop me a message!  
 
 **Connect with me**  
-GitHub: [@tyrandall28](https://github.com/tyrandall28) · LinkedIn: linkedin.com/in/tyler-randall  
+[linkedin.com/in/tyler-randall](https://linkedin.com/in/tyler-randall)  
